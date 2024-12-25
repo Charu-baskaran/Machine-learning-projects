@@ -95,12 +95,3 @@ Customer churn is a natural aspect of business, but managing and reducing churn 
 ## File Descriptions
 - `Cluster analysis.ipynb`: Jupyter Notebook containing the main code for the analysis.
 - `README.md`: Documentation file providing information about the project, installation, and usage.
-
-
-
-
-
----
-
-Customize the content based on your specific implementation and preferences.
-Ensure to include the actual dataset (`telco_customer_churn.csv`)

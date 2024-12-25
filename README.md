@@ -31,12 +31,12 @@ https://www.kaggle.com/datasets/dhirajnirne/california-housing-data
    
    jupyter notebook
 
-2. Open the `mltt assignment(a).ipynb` notebook.
+2. Open the `Prediction with Feature Selection.ipynb` notebook.
 
 3. Execute the cells in the notebook to run the entire pipeline.
 
 ## File Descriptions
-- `mltt assignment(a).ipynb`: Jupyter Notebook containing the main code for the project.
+- `Prediction with Feature Selection.ipynb`: Jupyter Notebook containing the main code for the project.
 - `README.md`: Documentation file providing information about the project ,dataset and usage.
 
 ---
@@ -93,9 +93,8 @@ Customer churn is a natural aspect of business, but managing and reducing churn 
 
 
 ## File Descriptions
-- `telco_churn_analysis.ipynb`: Jupyter Notebook containing the main code for the analysis.
+- `Cluster analysis.ipynb`: Jupyter Notebook containing the main code for the analysis.
 - `README.md`: Documentation file providing information about the project, installation, and usage.
-- `telco_customer_churn.csv`: Dataset containing Telco customer information.
 
 
 
